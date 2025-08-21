@@ -1,0 +1,14 @@
+Levantando requisitos para o site "Cafeteria";
+>Cardapio
+>Novidades
+>Descontos
+>Pesquisar
+>Carrinho
+>Compra
+>Loc
+>Login
+>Sobre nós
+>Perfil
+>Carteira
+>Avaliação
+>Recentes/favoritos
